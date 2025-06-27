@@ -9,6 +9,7 @@ I'm a data-driven researcher with a strong foundation in machine learning, compu
 ## 🛠 What I Do
 
 - **AI/ML for Infrastructure:** Deep learning for bridge reliability forecasting and roadway image segmentation (HRNet, CNNs, OCRNet).
+- **Time Series Forecasting & Anomaly Detection:** Built predictive models for AADT, VMT, and WIM live loads using ARIMA, SARIMAX, and LSTM. Applied Extreme Value Theory to forecast rare, high-impact freight events.
 - **Behavioral Modeling:** Built yield rate evaluation tools using logistic regression and statistical testing to assess pedestrian-driver interactions by treatment and speed environment.
 - **Multimodal Planning & Routing:** Developed LTS scoring models using aerial imagery and OpenStreetMap, integrated into routing systems for pedestrian/bike safety.
 - **TSMO & Congestion Analytics:** Modeled travel behavior responses to ramp metering, managed lanes, and 511 systems; created congestion dashboards using INRIX and Replica data.
@@ -16,10 +17,10 @@ I'm a data-driven researcher with a strong foundation in machine learning, compu
 
 
 ## 🛠  Projects
-- **LTS Image Segmentation & Routing (USDOT SBIR):** Built a production-ready pipeline for extracting bike/ped safety features from aerial imagery and generating low-stress travel routes.
-- **Yield Behavior Analysis (FDOT):** Built a Python-based analysis tool for estimating yield rates by crossing type and roadway characteristics using field data and regression models.
-- **Truck Parking Study (ARDOT):** Conducted spatial-temporal modeling of parking demand across high-volume freight corridors.
-- **WIM-Based Bridge Reliability Forecasting:** Combined machine learning and prospect theory to estimate failure probabilities under high-impact truck loads.
+- **LTS Image Segmentation & Routing (USDOT SBIR Grant):** Built a production-ready pipeline for extracting bike/ped safety features from aerial imagery and generating low-stress travel routes.
+- **Yield Behavior Analysis (NCHRP):** Built a Python-based analysis tool for estimating yield rates by crossing type and roadway characteristics using field data and regression models.
+- **Truck Parking Study (ARDOT, GDOT):** Conducted spatial-temporal modeling of parking demand across high-volume freight corridors.
+- **WIM-Based Bridge Reliability Forecasting (GDOT):** Combined machine learning and prospect theory to estimate failure probabilities under high-impact truck loads.
 - **TSMO Impact Modeling (NCHRP):** Led efforts to quantify how operational strategies influence user behavior, travel choices, and congestion.
 
 ## 🛠  Technical Skills
