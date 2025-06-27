@@ -7,23 +7,27 @@ Transportation Data Scientist & Engineer | AI Researcher | Infrastructure Analys
 I'm a data-driven researcher with a strong foundation in machine learning, computer vision, and infrastructure systems. I have over 4 years of experience working with public agencies and research institutions to improve mobility, safety, and infrastructure resilience across the U.S.
 
 ## 🛠 What I Do
-- Freight & Truck Data Analysis (WIM, Truck Parking, Freight Generators)
-- AI/ML Applications in Transportation (XGBoost, LSTM, CNN, Computer Vision)
-- Aerial Imagery-Based Roadway Feature Extraction (HRNet, OCRNet)
-- Traffic Forecasting, Congestion Analysis, & TSMO Strategy Evaluation
-- Infrastructure Risk & Reliability Modeling (Bridge Safety, Extreme Loads)
+
+- **AI/ML for Infrastructure:** Deep learning for bridge reliability forecasting and roadway image segmentation (HRNet, CNNs, OCRNet).
+- **Behavioral Modeling:** Built yield rate evaluation tools using logistic regression and statistical testing to assess pedestrian-driver interactions by treatment and speed environment.
+- **Multimodal Planning & Routing:** Developed LTS scoring models using aerial imagery and OpenStreetMap, integrated into routing systems for pedestrian/bike safety.
+- **TSMO & Congestion Analytics:** Modeled travel behavior responses to ramp metering, managed lanes, and 511 systems; created congestion dashboards using INRIX and Replica data.
+- **Freight & Truck Data Analysis:** Weigh-In-Motion (WIM) data forecasting, overweight vehicle risk assessment, truck parking demand, and freight generator modeling (e.g., logging industry impacts).
+
 
 ## 🛠  Projects
-- **AI for Level of Traffic Stress (LTS):** Developed an aerial image-based pipeline using HRNet for national-scale multimodal routing.
-- **Truck Parking Analysis – ARDOT:** Led spatial-temporal modeling of parking demand, supporting freight mobility and safety.
-- **WIM-Based Risk Assessment:** Ph.D. research applying extreme value theory and prospect theory to overweight vehicle events.
-- **TSMO Behavior Modeling – NCHRP:** Evaluating the impact of operational strategies (e.g., ramp metering) on traveler behavior.
+- **LTS Image Segmentation & Routing (USDOT SBIR):** Built a production-ready pipeline for extracting bike/ped safety features from aerial imagery and generating low-stress travel routes.
+- **Yield Behavior Analysis (FDOT):** Built a Python-based analysis tool for estimating yield rates by crossing type and roadway characteristics using field data and regression models.
+- **Truck Parking Study (ARDOT):** Conducted spatial-temporal modeling of parking demand across high-volume freight corridors.
+- **WIM-Based Bridge Reliability Forecasting:** Combined machine learning and prospect theory to estimate failure probabilities under high-impact truck loads.
+- **TSMO Impact Modeling (NCHRP):** Led efforts to quantify how operational strategies influence user behavior, travel choices, and congestion.
 
 ## 🛠  Technical Skills
-- **Languages & Tools:** Python, PyTorch, SQL, ArcGIS, MATLAB, C++, PySpark
-- **ML/AI:** XGBoost, CatBoost, LSTM, CNN, Computer Vision, Generative AI
-- **Geospatial:** ArcGIS Pro, QGIS, Aerial/OSM data processing
-- **Visualization:** Matplotlib, Seaborn, Tableau
+- **Languages:** Python, SQL, MATLAB, R
+- **ML/AI:** PyTorch, scikit-learn, XGBoost, CatBoost, CNN, LSTM
+- **Data Tools:** Pandas, seaborn, matplotlib, Spark, GeoPandas, Tableau
+- **GIS:** ArcGIS Pro, aerial imagery analysis, OSM data integration
+- **Big Data:** INRIX, Replica, WIM, Neo4j, Azure
 
 ## 🌍 Find Me Online
 - 🔗 [LinkedIn](https://linkedin.com/in/ananta-sinha-ph-d-7981b185/)
