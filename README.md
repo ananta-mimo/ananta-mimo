@@ -4,7 +4,7 @@ Transportation Data Scientist & Engineer | AI Researcher | Infrastructure Analys
 
 ---
 
-I'm a data-driven transportation researcher with a strong foundation in machine learning, computer vision, and infrastructure systems. I have over 4 years of experience working with public agencies and research institutions to improve mobility, safety, and infrastructure resilience across the U.S.
+I'm a data-driven researcher with a strong foundation in machine learning, computer vision, and infrastructure systems. I have over 4 years of experience working with public agencies and research institutions to improve mobility, safety, and infrastructure resilience across the U.S.
 
 ## 🛠 What I Do
 - Freight & Truck Data Analysis (WIM, Truck Parking, Freight Generators)
