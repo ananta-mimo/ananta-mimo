@@ -1,6 +1,6 @@
 # Hi, I'm Ananta Sinha, Ph.D.
 
-Transportation Data Scientist & Engineer | AI Researcher | Infrastructure Analyst
+Data Scientist & Engineer | AI Researcher | Infrastructure Data Scientist
 
 ---
 
