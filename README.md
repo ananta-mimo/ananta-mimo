@@ -1,34 +1,56 @@
 # Hi, I'm Ananta Sinha, Ph.D.
 
-Data Scientist & Engineer | AI Researcher | Infrastructure Data Scientist
+**Data Scientist | AI & ML Practitioner | Engineer by Training**
 
 ---
 
-I'm a data-driven researcher with a strong foundation in machine learning, computer vision, and infrastructure systems. I have over 4 years of experience working with public agencies and research institutions to improve mobility, safety, and infrastructure resilience across the U.S.
+I’m a data scientist with a Ph.D. in Engineering and 5+ years of experience applying **machine learning, statistical modeling, and advanced analytics** to solve real-world problems. My career spans both **public-sector research** and **industry-facing analytics**, where I’ve helped organizations use data to **reduce risk, optimize operations, and make smarter decisions**.  
+
+I bring the rigor of engineering research and the creativity of data science together to deliver solutions that are not only technically sound but also **aligned with business and policy outcomes**.  
+
 
 ## 🛠 What I Do
 
-- **AI/ML for Infrastructure:** Deep learning for bridge reliability forecasting and roadway image segmentation (HRNet, CNNs, OCRNet).
-- **Time Series Forecasting & Anomaly Detection:** Built predictive models for AADT, VMT, and WIM live loads using ARIMA, SARIMAX, and LSTM. Applied Extreme Value Theory to forecast rare, high-impact freight events.
-- **Behavioral Modeling:** Built yield rate evaluation tools using logistic regression and statistical testing to assess pedestrian-driver interactions by treatment and speed environment.
-- **Multimodal Planning & Routing:** Developed LTS scoring models using aerial imagery and OpenStreetMap, integrated into routing systems for pedestrian/bike safety.
-- **TSMO & Congestion Analytics:** Modeled travel behavior responses to ramp metering, managed lanes, and 511 systems; created congestion dashboards using INRIX and Replica data.
-- **Freight & Truck Data Analysis:** Weigh-In-Motion (WIM) data forecasting, overweight vehicle risk assessment, truck parking demand, and freight generator modeling (e.g., logging industry impacts).
+- **Machine Learning & AI Solutions**  
+  Build and deploy ML pipelines for classification, prediction, and anomaly detection using Python, PyTorch, scikit-learn, and Spark.  
+
+- **Time-Series & Forecasting**  
+  Develop predictive models for demand, system performance, and rare-event risks using ARIMA, SARIMAX, LSTM, and Extreme Value Theory.  
+
+- **Data-Driven Decision Support**  
+  Translate analytical results into clear business strategies with dashboards, visualizations, and storytelling that empower both technical and non-technical stakeholders.  
+
+- **Applied Research & Engineering Analytics**  
+  Bridge my civil engineering background with data science by working on large-scale infrastructure, transportation, and safety challenges - from truck freight analytics to pedestrian safety modeling.  
+
+- **End-to-End Data Science Lifecycle**  
+  Experience across data acquisition, ETL, feature engineering, model validation, deployment, and monitoring in both cloud and on-prem environments.  
 
 
 ## 🛠  Projects
-- **LTS Image Segmentation & Routing (USDOT SBIR Grant):** Built a production-ready pipeline for extracting bike/ped safety features from aerial imagery and generating low-stress travel routes.
-- **Yield Behavior Analysis (NCHRP):** Built a Python-based analysis tool for estimating yield rates by crossing type and roadway characteristics using field data and regression models.
-- **Truck Parking Study (ARDOT, GDOT):** Conducted spatial-temporal modeling of parking demand across high-volume freight corridors.
-- **WIM-Based Bridge Reliability Forecasting (GDOT):** Combined machine learning and prospect theory to estimate failure probabilities under high-impact truck loads.
-- **TSMO Impact Modeling (NCHRP):** Led efforts to quantify how operational strategies influence user behavior, travel choices, and congestion.
+- **AI-Powered Safety & Routing Models**  
+  Developed ML pipelines to extract roadway features from aerial imagery and integrate them into routing systems to improve safety and reduce congestion.  
+
+- **Anomaly Detection & Risk Forecasting**  
+  Applied ML and time-series models to detect anomalies in high-volume sensor data, reducing manual intervention costs and improving reliability forecasting.  
+
+- **Behavioral Modeling for Policy Decisions**  
+  Designed and validated regression-based models to understand driver-pedestrian interactions, guiding infrastructure investment and safety improvements.  
+
+- **Freight & Logistics Analytics**  
+  Built demand models for truck parking, freight generators, and corridor bottlenecks using spatial-temporal analysis and big data sources (WIM, INRIX, Replica).  
 
 ## 🛠  Technical Skills
-- **Languages:** Python, SQL, MATLAB, R
-- **ML/AI:** PyTorch, scikit-learn, XGBoost, CatBoost, CNN, LSTM
-- **Data Tools:** Pandas, seaborn, matplotlib, Spark, GeoPandas, Tableau
-- **GIS:** ArcGIS Pro, aerial imagery analysis, OSM data integration
-- **Big Data:** INRIX, Replica, WIM, Neo4j, Azure
+- **Languages:** Python, SQL, R, MATLAB  
+- **Machine Learning:** PyTorch, scikit-learn, XGBoost, CatBoost, LSTM, CNNs, anomaly detection  
+- **Data Tools:** Pandas, NumPy, seaborn, matplotlib, Spark, GeoPandas, Tableau, Streamlit  
+- **GIS & Geospatial:** ArcGIS Pro, aerial imagery analysis, OpenStreetMap integration  
+- **Big Data & Cloud:** Spark, PySpark, Azure ML, Neo4j
+
+## What Sets Me Apart  
+
+I am both an **engineer and a data scientist** - which means I approach problems with a structured, systems-oriented mindset while staying focused on **delivering data solutions that drive measurable outcomes**. Whether it’s optimizing infrastructure, detecting anomalies, or designing predictive models, my goal is to **turn complex data into insights that create value for people, organizations, and communities**.  
+
 
 ## 🌍 Find Me Online
 - 🔗 [LinkedIn](https://linkedin.com/in/ananta-sinha-ph-d-7981b185/)
