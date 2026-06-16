@@ -4,7 +4,8 @@
 
 ---
 
-I’m a data scientist with a Ph.D. in Engineering and 5+ years of experience applying **machine learning, statistical modeling, and advanced analytics** to solve real-world problems. My career spans both **public-sector research** and **industry-facing analytics**, where I’ve helped organizations use data to **reduce risk, optimize operations, and make smarter decisions**.  
+I am a Data Scientist with a Ph.D. in Engineering and 5+ years of experience **building end-to-end ML pipelines, statistical models, and data products across complex, high-volume datasets**. I specialize in **time-series forecasting, predictive modeling, and translating messy real-world data into decisions that matter**.
+I bring research rigor to applied problems — from **feature engineering** and**model validation** to communicating results to both **technical and non-technical audiences**..  
 
 I bring the rigor of engineering research and the creativity of data science together to deliver solutions that are not only technically sound but also **aligned with business and policy outcomes**.  
 
