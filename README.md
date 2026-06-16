@@ -10,7 +10,7 @@ I bring research rigor to applied problems - from **feature engineering** and**m
 I bring the rigor of engineering research and the creativity of data science together to deliver solutions that are not only technically sound but also **aligned with business and policy outcomes**.  
 
 
-## 🛠 What I Do
+## What I Do
 
 - **Machine Learning & AI Solutions**  
   Build and deploy ML pipelines for classification, prediction, and anomaly detection using Python, PyTorch, scikit-learn, and Spark.  
@@ -28,7 +28,7 @@ I bring the rigor of engineering research and the creativity of data science tog
   Experience across data acquisition, ETL, feature engineering, model validation, deployment, and monitoring in both cloud and on-prem environments.  
 
 
-## 🛠  Projects
+## Projects
 - **AI-Powered Safety & Routing Models**  
   Developed ML pipelines to extract roadway features from aerial imagery and integrate them into routing systems to improve safety and reduce congestion.  
 
@@ -41,16 +41,16 @@ I bring the rigor of engineering research and the creativity of data science tog
 - **Freight & Logistics Analytics**  
   Built demand models for truck parking, freight generators, and corridor bottlenecks using spatial-temporal analysis and big data sources (WIM, INRIX, Replica).  
 
-## 🛠  Technical Skills
+## Technical Skills
 - **Languages:** Python, SQL, R, MATLAB  
 - **Machine Learning:** PyTorch, scikit-learn, XGBoost, CatBoost, LSTM, CNNs, anomaly detection  
 - **Data Tools:** Pandas, NumPy, seaborn, matplotlib, Spark, GeoPandas, Tableau, Streamlit  
 - **GIS & Geospatial:** ArcGIS Pro, aerial imagery analysis, OpenStreetMap integration  
-- **Big Data & Cloud:** Spark, PySpark, Azure ML, Neo4j
+- **Big Data & Cloud:** Spark, PySpark, Azure ML, Neo4j, Blob Storage
 
 ## What Sets Me Apart  
 
-I am both an **engineer and a data scientist** - which means I approach problems with a structured, systems-oriented mindset while staying focused on **delivering data solutions that drive measurable outcomes**. Whether it’s optimizing infrastructure, detecting anomalies, or designing predictive models, my goal is to **turn complex data into insights that create value for people, organizations, and communities**.  
+I am both a **Data Scientist and an Engineer** - which means I approach problems with a structured, systems-oriented mindset while staying focused on **delivering data solutions that drive measurable outcomes**. Whether it’s optimizing infrastructure, detecting anomalies, or designing predictive models, my goal is to **turn complex data into insights that create value for people, organizations, and communities**.  
 
 
 ## 🌍 Find Me Online
