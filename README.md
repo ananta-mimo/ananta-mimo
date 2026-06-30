@@ -44,6 +44,10 @@ My background bridges rigorous statistical research and applied data science, wi
   Applied causal inference methods to quantify marginal contributions of exogenous signals on behavioral outcomes, generating feature importance insights for decision support systems.
 - **Binary Classification on Behavioral Data**
   Built logistic regression and XGBoost models on multi-signal behavioral and sensor datasets, validated with ROC/AUC and confusion matrix analysis, improving predictive accuracy by 40%.
+- **Behavioral Modeling for Policy Decisions**
+  Designed and validated regression-based models of driver-pedestrian interactions to guide infrastructure investment and safety improvements.
+- **Freight & Logistics Analytics**
+  Built demand models for truck parking, freight generators, and corridor bottlenecks using spatial-temporal analysis and big data sources (WIM, INRIX, Replica).
 
 ## Technical Skills
 
@@ -66,7 +70,7 @@ My background bridges rigorous statistical research and applied data science, wi
 
 ## What Sets Me Apart
 
-I ship. Most of my work is not in notebooks; it runs in production, on cloud infrastructure, with monitoring and stakeholder buy-in. I pair that with active peer-reviewed research and two manuscripts in preparation, so the methods I deploy are grounded in rigor, not hype.
+I am both a Data Scientist and an Engineer, which means I approach problems with a structured, systems-oriented mindset while staying focused on delivering data solutions with measurable outcomes. Whether it's optimizing infrastructure, detecting anomalies, or designing predictive models, my goal is to turn complex data into insights that create value for people, organizations, and communities.
 
 ## 🌍 Find Me Online
 
